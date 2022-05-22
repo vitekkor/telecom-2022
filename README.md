@@ -13,4 +13,4 @@
 - [x] 9. [Differentiation and Integratio](https://github.com/vitekkor/telecom-2022/blob/master/src/chap09.ipynb)
 - [x] 10. [Signals and Systems](https://github.com/vitekkor/telecom-2022/blob/master/src/chap10.ipynb)
 - [x] 11. [Modulation and sampling](https://github.com/vitekkor/telecom-2022/blob/master/src/chap11.ipynb)
-- [ ] 12. [Frequency Shift Keying (FSK)](https://github.com/vitekkor/telecom-2022/blob/master/src/chap12.ipynb)
+- [x] 12. [Frequency Shift Keying (FSK)](https://github.com/vitekkor/telecom-2022/blob/master/src/chap12.ipynb)
